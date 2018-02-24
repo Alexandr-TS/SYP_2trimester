@@ -75,7 +75,7 @@ namespace lab3_CSharp {
             }
 
             override public bool CheckEl(int val) {
-                if (val > MaxVal || val < 0) return false;
+                if (val > MaxVal || val <= 0) return false;
                 return m[val - 1];
             }
 
@@ -117,7 +117,7 @@ namespace lab3_CSharp {
                 val--;
                 int ind = val / 32;
                 int pos = val % 32;
-                if ((m[ind] | (1 << pos)) > 0)
+                if ((m[ind] | (1 << pos)) != 0)
                     m[ind] ^= (1 << pos);
             }
 
