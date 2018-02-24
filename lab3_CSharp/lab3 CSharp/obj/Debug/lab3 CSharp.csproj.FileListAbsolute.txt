@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\UNIVER\5trimestr\YP\Labs\lab3 CSharp\lab3 CSharp\bin\Debug\lab3 CSharp.exe.config
+C:\Users\Admin\Documents\UNIVER\5trimestr\YP\Labs\lab3 CSharp\lab3 CSharp\obj\Debug\lab3 CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\UNIVER\5trimestr\YP\Labs\lab3 CSharp\lab3 CSharp\bin\Debug\lab3 CSharp.exe
+C:\Users\Admin\Documents\UNIVER\5trimestr\YP\Labs\lab3 CSharp\lab3 CSharp\bin\Debug\lab3 CSharp.pdb
+C:\Users\Admin\Documents\UNIVER\5trimestr\YP\Labs\lab3 CSharp\lab3 CSharp\obj\Debug\lab3 CSharp.exe
+C:\Users\Admin\Documents\UNIVER\5trimestr\YP\Labs\lab3 CSharp\lab3 CSharp\obj\Debug\lab3 CSharp.pdb
